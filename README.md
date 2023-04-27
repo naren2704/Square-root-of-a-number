@@ -33,7 +33,7 @@ sqroot()
 
 ## Output:
 
-![exp2](https://user-images.githubusercontent.com/118706984/234808967-4daf85ae-47e8-4768-a6d5-87bb987a2c30.png)
+![image](https://user-images.githubusercontent.com/118706984/234809418-8f69cde8-f808-43be-8480-247146e77b12.png)
 
 
 ## Result:
